@@ -1,0 +1,524 @@
+commit a6a841c53364b340eaa70b14b70f8ba30f4078e0
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 19:14:24 2019 +0200
+
+    BestFirstSearch works, Astarworks, changed the costcomparator to consider point in addition to cost
+
+commit a0a9008612f40c7b2988a5ec7de0789b4b4bedac
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 18:28:54 2019 +0200
+
+    BestFirstSearch works, Astarworks, changed the costcomparator to consider point in addition to cost
+
+commit a88e9c48cd42ff071a9a8db8d8eec2f13808daf2
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 12:15:53 2019 +0200
+
+    Best First Search dont work- and because of that A star dont work....i am vary tired!!!!
+
+commit 19cd5bee750ad5f4bae1e1d5a2617298030ec7b9
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 10:45:29 2019 +0200
+
+    almost done
+
+commit 569b0a9d521db52a8f6bd1507a37ef1732d52650
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 06:10:03 2019 +0200
+
+    DEBUGGING
+
+commit 77f320b6a1905565425aecd00405f99b624789e4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 02:54:00 2019 +0200
+
+    DEBUGGING
+
+commit 5505333c77f9a62e23a3cc46c81a9e79ed9fffda
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Wed Jan 16 01:38:22 2019 +0200
+
+    DEBUGGING
+
+commit d38416777d52020ff59fcd7dc60569f79277ef2a
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Tue Jan 15 19:54:04 2019 +0200
+
+    after fixing cache, noe debug
+
+commit fc067be8c6cd3fd97807d495e98f5cdc6fa40182
+Merge: 059ed8e 1330e62
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Tue Jan 15 19:53:27 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+
+commit 1330e629aa470d15ff99731ee8613d8aefb8e6db
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Tue Jan 15 19:44:46 2019 +0200
+
+    MyParallelServer
+
+commit 059ed8ee2922ef16b52898053e551e27cb3e5dab
+Merge: 6941047 8883772
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Tue Jan 15 16:57:20 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+    
+    # Conflicts:
+    #       BaseCacheManager.h
+    #       CacheManager.h
+    #       main.cpp
+
+commit 6941047fa0dcb91fdee0b5f6b133219f4c0c1a23
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 23:01:49 2019 +0200
+
+    fixed StringReverser, added an inherited constructor to FileCacheManager
+
+commit 888377210555412bce615cbbb7e151db1956ee84
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Mon Jan 14 20:48:10 2019 +0200
+
+    Fixed(?) MyTestClientHandler
+
+commit 588ea7f76c436c1c30c6c255d75fc3e86465b3dc
+Merge: d47f001 bd50f21
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Mon Jan 14 19:31:22 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+
+commit d47f001e1fd58918437408182aa121fe9c686526
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Mon Jan 14 19:31:08 2019 +0200
+
+    Created A* (inheriting BestFirstSearch). Added abstract calculating method to BestFirstSearch.
+
+commit bd50f21017a6b937f3adf941c12da43ad8132cf1
+Merge: e401378 b80e22a
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 19:30:18 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit e401378320a9db96f0dc78b96a1890554ae7a190
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 19:29:51 2019 +0200
+
+    fixed StringReverser, added an inherited constructor to FileCacheManager
+
+commit b80e22adf16430be57332c4d47168099c13e8f1f
+Merge: 05420b3 48e5840
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Mon Jan 14 19:26:49 2019 +0200
+
+    Created A* (inheriting BestFirstSearch). Added abstract calculating method to BestFirstSearch.
+
+commit 05420b3c096d58e16de85fda7662419e028ee2de
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Mon Jan 14 17:48:46 2019 +0200
+
+    BestFirstSearch
+
+commit 48e584037e3eb49508942d9b1df3e3b15a51112d
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 17:35:11 2019 +0200
+
+    small fix to FileCacheManager
+
+commit a272c90643d84f54d4947eed43e3d309eeefd0de
+Merge: 16b8f83 b8f12aa
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 17:32:14 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 16b8f8387caf074808646ceb2fa69cecac577efc
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Mon Jan 14 17:31:57 2019 +0200
+
+    need to debug all changes! created and fixed the cache and the handler.
+
+commit b8f12aab46714801e33c59e48993f23a7d3fe04b
+Author: arielfenster <45856261+arielfenster@users.noreply.github.com>
+Date:   Mon Jan 14 00:48:13 2019 +0200
+
+    Delete ToDo
+
+commit cda0f0cc99b55921459489011e15c1a0ed7d5c52
+Merge: 2513eca f5f0655
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 23:44:35 2019 +0200
+
+    BestFirstSearch
+
+commit 2513eca7ceb8f86a534a849acdac54dd0eff448e
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 23:34:48 2019 +0200
+
+    Merged Everything
+
+commit f5f06559b1769170b4151626c6e9d1eccc89a56a
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 23:23:01 2019 +0200
+
+    finish dfs, need to: fix file-cache, a star, parallel and debug all
+
+commit 9cd72c4b5813c3a06039ce69a791d5eaed2cdace
+Merge: 52bd8a2 3f0731c
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 18:00:29 2019 +0200
+
+    not compile
+
+commit 3f0731cc353e61c04b0286fb3d950b42868fb3aa
+Merge: cbfaea9 ecb1b14
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 17:52:44 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       MyTestClientHandler.cpp
+    #       MyTestClientHandler.h
+
+commit cbfaea95e77e74c9a51e7af25985023b8ae4c4dd
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 17:51:31 2019 +0200
+
+    Merged Everything
+
+commit 52bd8a2de36a4356db88b24f8399684a5438d85d
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 17:51:03 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all
+
+commit ecb1b14be04f654fa8f3b90aad2a605b5cde7d5d
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 17:42:41 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all
+
+commit 1b9c273a8907b8b0d6116d74ce5859b07f52914f
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 17:40:02 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all
+
+commit 8b05fadcfc2c6aba48a49e95b52ba7cc99a0a19f
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 13:21:16 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all!
+
+commit 3f035728eccd37edb25d494137fe09e39acf4b81
+Merge: 4c480fe 08ed397
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 13:20:07 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 4c480fe79eacd9e617160e2e19d3c774aec5f5ed
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 13:19:50 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all!
+
+commit d386aa78f6cb7a8c4544c52a665f8d3fee02f9c4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 13:18:13 2019 +0200
+
+    need to finish bfs* , dfs,a-star and debug all!
+
+commit 08ed397849e4e297fd8ff0f8e75fa7e68aff9b8e
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 13:17:39 2019 +0200
+
+    Debugging Matrix
+
+commit 6f6292e2396baac0c3c4a75b8841ae61ada1d383
+Merge: 6e43555 311e035
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 12:46:22 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       SearchSolution.cpp
+    #       SearchSolution.h
+
+commit 6e43555cf4d9c4f33df3ef8519f1efbf0078904f
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 12:42:09 2019 +0200
+
+    need to finish dfs,a-star and debug all!!!
+
+commit 311e03582955a7535e551a924225ed81a75404e4
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 12:42:02 2019 +0200
+
+    Debugging Matrix
+
+commit bc8c29c35d5fb68aa480226674f1ad5d20690ede
+Merge: e35795c 6348fd4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 11:30:19 2019 +0200
+
+    still creating bfs
+
+commit e35795c2816b6d589a12015c862069307ae0005c
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sun Jan 13 11:21:04 2019 +0200
+
+    building the bfs
+
+commit 6348fd45e7e7992a2cb5a5f31f5037d8099303a0
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sun Jan 13 11:20:27 2019 +0200
+
+    SearchSolution, Matrix, Searchable, State
+
+commit 370646ec6b41ebd88766ade18ffac40140727250
+Merge: 9d15041 b16231b
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 19:53:26 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Searchable.h
+
+commit 9d15041162303240da43d581fc4d3d17f77a7d3f
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 19:52:36 2019 +0200
+
+    SearchSolution, Matrix, Searchable
+
+commit f4665c874385f4f01589ea9d2330523d9b0bb2ab
+Merge: b03e0d0 b16231b
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 19:03:51 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+
+commit b03e0d0c398322b091da056ca511f0b0ff43c05f
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 19:03:35 2019 +0200
+
+    building the bfs
+
+commit 2ad1df54fa512622900055042d734fc081648d05
+Merge: f8932e1 d41937b
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 19:02:39 2019 +0200
+
+    building the bfs
+
+commit b16231b492a1f7e14e82136dbd5a0a7f05327ca3
+Author: arielfenster <45856261+arielfenster@users.noreply.github.com>
+Date:   Sat Jan 12 18:59:12 2019 +0200
+
+    Add files via upload
+
+commit f8932e17f267f8a557aec25c2f948aa835690849
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 15:58:30 2019 +0200
+
+    without problem and solution  - start debug
+
+commit d41937bdc3cbf011f563794f0ffed2a235cc1a62
+Merge: 00f1194 8da71f8
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 15:58:18 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Searchable.h
+
+commit 00f1194a4926165281208ff8df9cf9df0c8370d4
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 15:56:49 2019 +0200
+
+    Updated Matrix and Searchable
+
+commit 711777f8fc7e690c71437f9ed8ad14c1eddb2dd9
+Merge: 03e62db 8da71f8
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 15:55:55 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Searchable.h
+
+commit 03e62db7ad1d57acf034ae950253aad4a192bac2
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 15:55:37 2019 +0200
+
+    without problem and solution  - start debug
+
+commit 8da71f86a7228f249433344459dc2e05be1bd14c
+Author: bariudin777 <45856254+bariudin777@users.noreply.github.com>
+Date:   Sat Jan 12 15:55:19 2019 +0200
+
+    Delete Searchable.h
+
+commit 904b14d22e4e6afba2682aae90ba1c5f360823a9
+Author: bariudin777 <45856254+bariudin777@users.noreply.github.com>
+Date:   Sat Jan 12 15:55:05 2019 +0200
+
+    Delete Problem.h
+
+commit a460acc3a30b667610340ff3396d914068994cae
+Author: bariudin777 <45856254+bariudin777@users.noreply.github.com>
+Date:   Sat Jan 12 15:54:48 2019 +0200
+
+    Delete Solution.h
+
+commit 397b523269db2c4e7f79662969fe3736403ccd82
+Merge: 7d19af8 c718a80
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 14:26:03 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+    
+    # Conflicts:
+    #       Matrix.h
+
+commit 760357af74488efc96a54284b20a8fb9357f1ea9
+Author: arielfenster <45856261+arielfenster@users.noreply.github.com>
+Date:   Sat Jan 12 14:25:11 2019 +0200
+
+    Add files via upload
+
+commit c718a80fbcd5bb46bbf370f9373ca1dca6bb3f83
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 14:23:21 2019 +0200
+
+    Updated Matrix and State
+
+commit 7d19af89cf405916907d2fc0f245457e36f72df9
+Merge: dfe85aa e43709d
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 14:22:05 2019 +0200
+
+    Merge branch 'master' of https://github.com/bariudin777/ex4
+    
+    # Conflicts:
+    #       Matrix.cpp
+
+commit dfe85aa71d0d250164b53aec491c46b62cddd85c
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 14:20:02 2019 +0200
+
+    bla
+
+commit e43709d65f83ec560f46c85108886cd7afaeecf9
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 14:19:08 2019 +0200
+
+    Updated Matrix and State
+
+commit 2504f853b613a52b67febf830a4c7ba0041120d5
+Merge: a208042 d5af1a4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 14:18:25 2019 +0200
+
+    bla
+
+commit a208042fa31b6171648abf391c77ce6e8b1b50fa
+Merge: 7d28e50 fecdefa
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Sat Jan 12 14:14:44 2019 +0200
+
+    bla
+
+commit d5af1a45caacac5ffad8308fa283649fc771d615
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Sat Jan 12 14:09:03 2019 +0200
+
+    Updated Matrix and State
+
+commit 7d28e5081c0f57e883cc170ad6b91be02b2ebf9e
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 22:32:28 2019 +0200
+
+    still need to finish all the solvers
+
+commit fecdefabac44e89e596658570912e4ab2b0cae78
+Merge: ed6cd47 87b31ed
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Fri Jan 11 22:32:09 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ed6cd474204c6ad158afb5255e5e72cb786dc080
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Fri Jan 11 22:31:19 2019 +0200
+
+    Updated Matrix and Searchable
+
+commit 87b31ed91957f8643477374fafd1979acf054e0c
+Merge: f909c74 df955c4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 21:18:38 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f909c747827a1d0276580f042f8986c1170fff0a
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 21:18:23 2019 +0200
+
+    need to debug the cache manager
+
+commit df955c4032dab8d11616e85d27d95405641f697f
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Fri Jan 11 21:16:13 2019 +0200
+
+    Created Matrix
+
+commit ca61af652db74a73ec7311aa13611ecf5b7072ff
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Fri Jan 11 19:10:51 2019 +0200
+
+    Finished MyServer
+
+commit 947a439f097bf70b7980c2031f881c1c5212f44c
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 18:23:23 2019 +0200
+
+    initial commit-need to debug asap!
+
+commit 36532b6eb81e8bb7001fa05f62d1ecf923dc3ef4
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 18:23:04 2019 +0200
+
+    initial commit-need to debug asap!
+
+commit 5e9e1047aa88eb7c23b6695befc351f0db76e709
+Author: Ariel <ariel_the_matrix@hotmail.com>
+Date:   Fri Jan 11 14:30:27 2019 +0200
+
+    Merged files for the first time
+
+commit a81d665963c3baaf0ef00204471a3ba0e1b8bb24
+Author: bariudin777 <bariudin77@gmail.com>
+Date:   Fri Jan 11 14:11:33 2019 +0200
+
+    initial commit-need to debug asap!
+
+commit f36b1da89d4db0d76f14d962d1aa755e4bfdba07
+Author: bariudin77 <bariudin77@gmail.com>
+Date:   Mon Dec 31 12:56:01 2018 +0200
+
+    TO-DO: pick what you want
+
+commit 525bbaf444247bb21289400653f8efd32b4940f8
+Author: bariudin77 <bariudin77@gmail.com>
+Date:   Mon Dec 31 10:56:36 2018 +0200
+
+    Initial commit
